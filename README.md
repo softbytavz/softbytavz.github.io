@@ -1,6 +1,6 @@
 # softbytavz.github.io
 <h1 align="center"><b>Hi , I'm Antonio Calderón </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 
 
 <br>
@@ -14,11 +14,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Future Dev
+- Student| Software Engineering| Universidad Veracruzana
 
 <br><br>
 
