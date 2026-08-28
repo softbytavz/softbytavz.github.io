@@ -1,3 +1,58 @@
 body {
-    background: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eeeeee;
+}
+
+.cv {
+    width: 800px;
+    margin: auto;
+    padding: 30px;
+    background-color: white;
+}
+
+.encabezado {
+    display: flex;
+    align-items: center;
+}
+
+.encabezado img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 25px;
+}
+
+h1 {
+    font-size: 28px;    
+}
+
+hr {
+    border: 0;
+    height: 3px;
+    background-color: #2945c4;
+    margin: 25px 0;
+}
+
+.columnas{
+    display: flex;
+}
+
+.izquierda {
+    width: 60%;
+    padding-right: 30px;
+}
+
+.derecha {
+    width: 40%;
+}
+
+h2 {
+    color: red;
+    text-transform: uppercase;
+    margin-top: 25px;
+}
+
+p {
+    line-height: 1.5;
 }
